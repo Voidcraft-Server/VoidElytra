@@ -1,0 +1,7 @@
+name: VoidElytra
+version: 1.0.0
+main: org.penple.VoidElytra.VoidElytra
+permissions:
+    voidelytra.boost:
+        description: Allows you to boost with elytras!
+        default: op
